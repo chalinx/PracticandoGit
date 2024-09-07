@@ -17,7 +17,7 @@
 #define pll pair<ll,ll>
 #define pii pair<int,int>
 #define ingr(r) fi(i,0,sz(r),1)cin>>r[i];
-
+#define pdd pair<double,double>
 using namespace std;
 
 void solve(){

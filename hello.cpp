@@ -23,7 +23,7 @@ using namespace std;
 void solve(){
 
 cout<<1;
-
+cout<<2;
 }
 
 
