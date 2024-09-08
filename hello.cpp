@@ -18,12 +18,16 @@
 #define pii pair<int,int>
 #define ingr(r) fi(i,0,sz(r),1)cin>>r[i];
 //adiosmundo
+#include "suma.h"
 using namespace std;
+
+
 
 void solve(){
 
+cout<<suma(2,3);
 cout<<1;
-cout<<2;
+cout<<22;
 }
 
 
